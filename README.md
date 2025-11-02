@@ -94,6 +94,6 @@ The CRM Application for Jewel Management efficiently automates jewellery store o
 **Institution:** : Einstein College Of Engineering 
 **Team ID:** :  4CF9B0641590872B2C04C54C5A691F2E
 **Email:** : divyabharathimmk4547@gmail.com
-**GitHub:** : 
+**GitHub:** : https://github.com/divya-bharathi45/CRM_application_for_jewel_management.git
 
 
