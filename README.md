@@ -8,7 +8,7 @@ The **CRM Application for Jewel Management** is a Salesforce-based system design
 ##  Key Features
 
 1. **Customer Order Management** – Store and track jewellery orders from customers.  
-2 **Item Management** – Maintain detailed records of ornaments, types, weights, and prices.
+2. **Item Management** – Maintain detailed records of ornaments, types, weights, and prices.
 3. **Billing Management** – Create bills automatically linked to items and orders.  
 4. **Automated Email Notifications** – Trigger emails to customers when billing is created or updated.  
 5. **Custom Reports** – Generate combined reports showing Billings, Items, and Customer Orders.  
